@@ -1,2 +1,2 @@
 # Local-Shop-Inventory
-It's a single console application)
+It's a simple console application
