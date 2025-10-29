@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "product": "Mouse",
+    "quantity": 2,
+    "price": 29.99,
+    "total": 59.98,
+    "date": "2025-10-23T13:02:41.695Z"
+  },
+  {
+    "id": 2,
+    "product": "Mouse",
+    "quantity": 2,
+    "price": 29.99,
+    "total": 59.98,
+    "date": "2025-10-23T13:03:48.926Z"
+  },
+  {
+    "id": 3,
+    "product": "Laptop",
+    "quantity": 1,
+    "price": 999.99,
+    "total": 999.99,
+    "date": "2025-10-23T13:03:48.939Z"
+  },
+  {
+    "id": 4,
+    "product": "Mouse",
+    "quantity": 2,
+    "price": 29.99,
+    "total": 59.98,
+    "date": "2025-10-23T13:04:43.863Z"
+  },
+  {
+    "id": 5,
+    "product": "Laptop",
+    "quantity": 1,
+    "price": 999.99,
+    "total": 999.99,
+    "date": "2025-10-23T13:04:43.872Z"
+  },
+  {
+    "id": 6,
+    "product": "Mouse",
+    "quantity": 2,
+    "price": 29.99,
+    "total": 59.98,
+    "date": "2025-10-23T13:05:59.297Z"
+  },
+  {
+    "id": 7,
+    "product": "Laptop",
+    "quantity": 1,
+    "price": 999.99,
+    "total": 999.99,
+    "date": "2025-10-23T13:05:59.308Z"
+  },
+  {
+    "id": 8,
+    "product": "Mouse",
+    "quantity": 5,
+    "price": 29.99,
+    "total": 149.95,
+    "date": "2025-10-23T13:05:59.338Z"
+  }
+]
